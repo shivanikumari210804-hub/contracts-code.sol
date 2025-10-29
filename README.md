@@ -39,4 +39,6 @@ The system ensures that every wallet address can vote **only once**, and all res
    ["Alice", "Bob", "Charlie"]
 
 
-## Contract Address: 0x28b2F7540B7C9eFF02A6B03A3F011EFb1A02909B
+Contract Address: https://celo-sepolia.blockscout.com/address/0x28b2F7540B7C9eFF02A6B03A3F011EFb1A02909B
+<img width="1920" height="1080" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/4a4a7b68-c8fc-43be-b3b9-67cc88c93743" />
+
